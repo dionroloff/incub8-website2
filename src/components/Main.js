@@ -21,11 +21,22 @@ class Main extends React.Component {
           {close}
         </article>
 
-        <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{ display: 'none' }}>
-          <h2 className="major">Work</h2>
-          <span className="image main"><img src={pic02} alt="" /></span>
-          <p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-          <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+        <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
+          <h2 className="major">Recent Projects From incub8</h2>
+          {/* MAKE Event gif and description */}
+          <span className="image main"><img src={"https://raw.githubusercontent.com/jamesctucker/MAKE-Event-App/master/dashboard.gif"} alt="" /></span>
+          <p><i>MAKE Event</i></p>
+          <p>MAKE Event App is a CMS for storing and displaying event data in a central location.</p>
+          
+          {/* JourneyTellr gif and description */}
+          <span className="image main"><img src={"https://raw.githubusercontent.com/journey-tellr-app/MVP/master/home.gif"} alt="" /></span>
+          <p><i>JourneyTellr</i></p>
+          <p>An in-house social media app for mobile enterprise use. JourneyTellr empowers employees to create and share authentic stories about company culture.</p>
+
+          {/* Learn Russian image and description */}
+          <span className="image main"><img src={"http://dionroloff.codes/wp-content/uploads/2019/02/Screen-Shot-2019-03-04-at-10.48.06-AM.png"} alt="" /></span>
+          <p><i>Learn Russian</i></p>
+          <p>An audio-visual app that allows users to create, edit, and study vocabulary in a foreign language.</p>
           {close}
         </article>
 
