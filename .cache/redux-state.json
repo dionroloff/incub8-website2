@@ -4,25 +4,25 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/dionroloff/Desktop/incub8/incub8-website2/.cache/dev-404-page.js",
+      "component": "/Users/jamestucker/incub8-website2/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/.cache/dev-404-page.js",
+      "componentPath": "/Users/jamestucker/incub8-website2/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d7e56693bbcd1762819faf988cad6888",
+        "contentDigest": "f75fee4d98b842d3196ac94f9d00c388",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e1d4b7ad38a702775aae3d5fa15cafa2",
+        "contentDigest": "e746d452ea56425f8d4aec5b062a40e5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -86,13 +86,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5917fe687910361a1883ee7aa7c306ea",
+        "contentDigest": "e494de2ae9867c2adbb46f1ec58796b3",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -105,7 +105,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -122,13 +122,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a3574f7c99e78a38dededca5abb37b2c",
+        "contentDigest": "736cf11b97ecd99b049529fb05da9ca6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -157,13 +157,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "92c1af558e6e55c5bab0a1dc88289177",
+        "contentDigest": "c7fa4a879cde91ba93c997768c5d8b57",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -175,7 +175,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -192,13 +192,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "65dca1b3b1b5ae079ead692b31f4154a",
+        "contentDigest": "77ddcabcd54e3d873ca2059514f73d5a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-react-helmet",
       "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.12",
@@ -210,7 +210,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -277,13 +277,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "091f6326f1baebddd9f47fabdd77548f",
+        "contentDigest": "b88a825f9c01ceb5078e2720ec505a1f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "112c12f8-b222-509b-abe0-dfe93a905df9": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-manifest",
       "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.26",
@@ -304,7 +304,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -368,13 +368,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "2e50352f3c33068006b7d13f332f0d00",
+        "contentDigest": "a3af0518ecf97b76cffb507d0cb68fc4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-sass",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-sass",
       "id": "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8",
       "name": "gatsby-plugin-sass",
       "version": "2.0.11",
@@ -386,7 +386,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -447,13 +447,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "3f6f2938c0d42e9c1481aa090480dede",
+        "contentDigest": "952615263d9c13551e510f8c3ff1e4ec",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-offline",
       "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
       "name": "gatsby-plugin-offline",
       "version": "2.0.25",
@@ -470,7 +470,7 @@
         "onPostPrefetchPathname"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -544,13 +544,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5fba0177c4e43b1588c5e56041461a8b",
+        "contentDigest": "e39665d1ae6c82c0e21b089fc033c856",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2",
+      "resolve": "/Users/jamestucker/incub8-website2",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
       "version": "dc8d30425ad03a818c6f938dc0560872",
@@ -560,7 +560,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2",
       "packageJson": {
         "name": "gatsby-starter-dimension-v2",
         "description": "Gatsby Starter - Dimension V2",
@@ -621,7 +621,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "d2c3f54b06aeaca414f192143c056fe5",
+        "contentDigest": "4471c589e6b4cc4872754d2b9d206517",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -636,24 +636,24 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-06T22:11:06.599Z",
+      "buildTime": "2019-04-09T14:52:46.989Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "255b3a53f7675a65e8a287f4ec29b85f",
+        "contentDigest": "6c1a0d62f480f8ea496aea85a1065dce",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "363c680f-8e05-5d35-88c9-c94db688422f": {
-      "resolve": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-page-creator",
-      "id": "363c680f-8e05-5d35-88c9-c94db688422f",
+    "4d8dff1f-580b-57dc-ba69-a65a42b3ed16": {
+      "resolve": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-page-creator",
+      "id": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.12",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages",
+        "path": "/Users/jamestucker/incub8-website2/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -661,7 +661,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dionroloff/Desktop/incub8/incub8-website2/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/jamestucker/incub8-website2/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -744,7 +744,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "7265472cb19c52e209051aef90dd56d5",
+        "contentDigest": "05686fe4d685a05b3da6b4fb2cc5fe59",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -753,20 +753,20 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/404.js",
+      "component": "/Users/jamestucker/incub8-website2/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "363c680f-8e05-5d35-88c9-c94db688422f",
-      "pluginCreatorId": "363c680f-8e05-5d35-88c9-c94db688422f",
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/404.js",
+      "pluginCreator___NODE": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
+      "pluginCreatorId": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bfb81c37e4493166d8855bc5ecca0c5b",
-        "description": "363c680f-8e05-5d35-88c9-c94db688422f",
+        "contentDigest": "dd2b2c52d933925ba606fad6c031f252",
+        "description": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
         "owner": "internal-data-bridge"
       }
     },
@@ -774,20 +774,20 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/index.js",
+      "component": "/Users/jamestucker/incub8-website2/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "363c680f-8e05-5d35-88c9-c94db688422f",
-      "pluginCreatorId": "363c680f-8e05-5d35-88c9-c94db688422f",
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/index.js",
+      "pluginCreator___NODE": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
+      "pluginCreatorId": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/index.js",
       "id": "SitePage /",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a96753d6c6e524c591a131f1bfad680a",
-        "description": "363c680f-8e05-5d35-88c9-c94db688422f",
+        "contentDigest": "f005d534918ed24e8a1749bb8a3db12b",
+        "description": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
         "owner": "internal-data-bridge"
       }
     },
@@ -795,20 +795,20 @@
       "jsonName": "page-2-fbc",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/page-2.js",
+      "component": "/Users/jamestucker/incub8-website2/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "363c680f-8e05-5d35-88c9-c94db688422f",
-      "pluginCreatorId": "363c680f-8e05-5d35-88c9-c94db688422f",
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/page-2.js",
+      "pluginCreator___NODE": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
+      "pluginCreatorId": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75545eb8336100bdb1d8fd068ba83205",
-        "description": "363c680f-8e05-5d35-88c9-c94db688422f",
+        "contentDigest": "dc0b4f0dc74292bc4864b378c5966f03",
+        "description": "4d8dff1f-580b-57dc-ba69-a65a42b3ed16",
         "owner": "internal-data-bridge"
       }
     },
@@ -816,19 +816,19 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/404.js",
+      "component": "/Users/jamestucker/incub8-website2/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/404.js",
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f38315152f12ef76addd2d5da66a550f",
+        "contentDigest": "3a2f115dd9c01875ea92860b06b9ea4f",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -855,16 +855,16 @@
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8"
   },
   "components": {
-    "/Users/dionroloff/Desktop/incub8/incub8-website2/.cache/dev-404-page.js": {
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/.cache/dev-404-page.js",
+    "/Users/jamestucker/incub8-website2/.cache/dev-404-page.js": {
+      "componentPath": "/Users/jamestucker/incub8-website2/.cache/dev-404-page.js",
       "query": "",
       "pages": [
         "/dev-404-page/"
       ],
       "isInBootstrap": false
     },
-    "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/404.js": {
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/404.js",
+    "/Users/jamestucker/incub8-website2/src/pages/404.js": {
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/404.js",
       "query": "",
       "pages": [
         "/404/",
@@ -872,16 +872,16 @@
       ],
       "isInBootstrap": false
     },
-    "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/index.js": {
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/index.js",
+    "/Users/jamestucker/incub8-website2/src/pages/index.js": {
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/index.js",
       "query": "",
       "pages": [
         "/"
       ],
       "isInBootstrap": false
     },
-    "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/page-2.js": {
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/pages/page-2.js",
+    "/Users/jamestucker/incub8-website2/src/pages/page-2.js": {
+      "componentPath": "/Users/jamestucker/incub8-website2/src/pages/page-2.js",
       "query": "",
       "pages": [
         "/page-2/"
@@ -892,7 +892,7 @@
   "staticQueryComponents": {
     "sq--src-components-layout-js": {
       "name": "SiteTitleQuery",
-      "componentPath": "/Users/dionroloff/Desktop/incub8/incub8-website2/src/components/layout.js",
+      "componentPath": "/Users/jamestucker/incub8-website2/src/components/layout.js",
       "id": "sq--src-components-layout-js",
       "jsonName": "sq--src-components-layout-js",
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
